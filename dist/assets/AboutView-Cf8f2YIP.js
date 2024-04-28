@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as s}from"./index-DLNwOnBd.js";const c={},a={class:"about"},_=s("h1",null,"This is About page gfjhiitjhiotrjh",-1),n=[_];function i(r,h){return o(),t("div",a,n)}const f=e(c,[["render",i]]);export{f as default};
