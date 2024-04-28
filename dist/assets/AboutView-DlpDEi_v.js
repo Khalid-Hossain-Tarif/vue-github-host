@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as s}from"./index-h68ymaEt.js";const c={},a={class:"about"},_=s("h1",null,"About page",-1),n=[_];function r(d,i){return t(),o("div",a,n)}const u=e(c,[["render",r]]);export{u as default};
