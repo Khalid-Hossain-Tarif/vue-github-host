@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./index-BZn-OGtz.js";const c={},a={class:"about"},_=t("h1",null,"This is About page",-1),n=[_];function r(i,d){return s(),o("div",a,n)}const u=e(c,[["render",r]]);export{u as default};
