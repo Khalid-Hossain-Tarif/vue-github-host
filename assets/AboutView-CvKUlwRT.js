@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./index-B0p_QZnT.js";const r={},c={class:"about"},a=t("h1",null,"This is About page rie gerguiregier erubguier gergr",-1),_=[a];function i(n,u){return s(),o("div",c,_)}const g=e(r,[["render",i]]);export{g as default};
